@@ -152,7 +152,7 @@ No known bugs at this time.
 
 ###### Version 3
 
-- Jeff Ochieng </br>
+- Jeff Ochieng [Github](https://github.com/je4stine) </br>
 - Adam Keino - [Github](https://github.com/adamkeino)
 
 ###### Version 2
